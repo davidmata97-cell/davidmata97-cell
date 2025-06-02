@@ -10,13 +10,16 @@ A high technitian of software develop with experience in internship. I have know
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmata97-cell&layout=compact&date=2025-06-02-18-00"/></a>
 </p>
 
+### 🤝 Connect With Me
+
+I'd love to collaborate on interesting projects or just chat about web development! Feel free to reach out:
+<p align='center'>
+   📫 How to reach me: <a href='mailto:daviddemata97@gmail.com'>daviddemata97@gmail.com</a>
+</p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/david-de-mata-de-la-puente-511185263?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRIBg89XfRa2a4EWM%2FEqMdQ%3D%3D">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:daviddemata97@gmail.com'>daviddemata97@gmail.com</a>
-</p>
 
 
 ### 🛠️ My Tech Stack
@@ -76,8 +79,3 @@ While my projects are primarily non-commercial, they showcase my ability to deve
 
 I'd love to collaborate on interesting projects or just chat about web development! Feel free to reach out:
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
-* **Location:** León, Spain
-
----
