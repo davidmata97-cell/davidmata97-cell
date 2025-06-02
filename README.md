@@ -79,3 +79,7 @@ While my projects are primarily non-commercial, they showcase my ability to deve
 
 I'd love to collaborate on interesting projects or just chat about web development! Feel free to reach out:
 
+<p align='center'>
+    <a href="![Profile Views](https://komarev.com/ghpvc/?username=davidmata97-cell)">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=davidmata97-cell"> </a>
+</p>
