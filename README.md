@@ -19,28 +19,65 @@ A high technitian of software develop with experience in internship. I have know
 </p>
 
 
-### Key points
-*   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
-*   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+### 🛠️ My Tech Stack
 
-## 🛠 Technology Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
+Here are the tools and technologies I'm proficient with and/or actively learning:
 
-### My opensource projects
+#### Front-End
+* **JavaScript**
+* **HTML**
+* **CSS**
+* **React**
+* **Bootstrap**
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [CodeGym TelegramBot](https://github.com/codegymcommunity/codegym-telegrambot) - CodeGym Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+#### Back-End
+* **Python**
+* **Flask**
+* **APIs** (consumption and basic design)
+* **XML**
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+#### Databases
+* **MySQL**
+* **PostgreSQL**
+* **BaseX GUI**
+
+#### Version Control
+* **Git**
+* **GitHub**
+
+---
+
+### 💡 Featured Projects (Examples)
+
+While my projects are primarily non-commercial, they showcase my ability to develop complete web solutions and my command of the technologies listed. Here you'll find examples of my repositories.
+
+---
+
+### 🎓 Education
+
+* **Full-Stack Developer**
+    * 4Geeks Academy
+* **Higher Vocational Training (F.P. Superior DAW)** - Web Application Development
+    * IES San Andrés, León
+* **Law Graduate**
+    * University of León
+
+---
+
+### 🌍 Languages
+
+* **Spanish:** Native
+* **English:** Upper Intermediate
+* **Italian:** Basic
+
+---
+
+### 🤝 Connect With Me
+
+I'd love to collaborate on interesting projects or just chat about web development! Feel free to reach out:
+
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Email:** [Your Email Address]
+* **Location:** León, Spain
+
+---
