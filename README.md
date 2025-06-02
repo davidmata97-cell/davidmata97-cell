@@ -7,7 +7,7 @@ A high technitian of software develop with experience in internship. I have know
            height=150
            src="https://github-readme-stats.vercel.app/api?username=davidmata97-cell&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/davidmata97-cell/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmata97-cell&layout=compact&theme=radical&date=2025-06-02-18-00"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmata97-cell&layout=compact&date=2025-06-02-18-00"/></a>
 </p>
 
 <p align='center'>
