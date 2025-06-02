@@ -6,7 +6,7 @@ A high technitian of software develop with experience in internship. I have know
    <a href="https://github.com/davidmata97-cell/CVdavidmata97-cell/commit/2d98678e48e3a00fbb756661a7b645d6907387bf&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=davidmata97-cell&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+   <a href="https://github.com/davidmata97-cell/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmata97-cell&layout=compact"/></a>
 </p>
 
