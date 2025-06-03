@@ -1,5 +1,5 @@
 # Hello, I'm David 👋
-A high technitian of software develop with experience in internship. I have knowledge on HTML, CSS, JS, Java and MySQL.
+A higher technitian of software develop with experience in internship. I have knowledge on HTML, CSS, JS, Java and MySQL.
 
 
 <p align='center'>
